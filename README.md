@@ -10,11 +10,11 @@
 
 ## Git Client
 Dưới đây là những phần mềm tương tác với Git qua giao diện đồ hoạ:
+- [Github Desktop](https://desktop.github.com/) (Windows, Mac)
 - [SourceTree](http://www.sourcetreeapp.com/) (Windows, Mac)
 - [GitKraken](https://www.gitkraken.com/) (Windows, Mac, Linux)
 - [GitExtension](https://github.com/gitextensions/gitextensions/releases) (Windows, Mac, Linux)
 - [git-cola](http://git-cola.github.com/) (Windows, Linux)
-
 
 ## Cài đặt Git
 - Windows: [Download](https://git-scm.com/book/vi/v1/B%E1%BA%AFt-%C4%90%E1%BA%A7u-C%C3%A0i-%C4%90%E1%BA%B7t-Git#Cài-Đặt-Trên-Windows)
